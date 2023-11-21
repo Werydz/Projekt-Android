@@ -7,7 +7,7 @@
 |4.0|Jetpack (z oceny 3.0) + minimum 3 różne ekrany
 |5.0|Jetpack (z oceny 4.0) + przenoszenie danych pomiędzy ekranami
 
-## [Project 2 - 21.11.2023](Brak Linku)
+## [Project 2 - 21.11.2023][(Brak Linku)](https://github.com/Werydz/Projekt2)
 |Ocena|Zadanie|Wykonano|
 |---|---|---|
 |3.0|odczytanie danych z sensora
