@@ -1,6 +1,6 @@
 # Projekt Android
 
-## [Project 1 - 14.11.2023](Brak Linku)
+## [Project 1 - 14.11.2023](https://github.com/Werydz/Projekt1)
 |Ocena|Zadanie|Wykonano|
 |---|---|---|
 |3.0|Jetpack + reakcja np. na przycisk itp.
