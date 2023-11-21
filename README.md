@@ -1,5 +1,7 @@
 # Projekt Android
 
+Pod nazwą projektu kryje się link do repozytorium z danego projektu w opisanym dniu.
+
 ## [Project 1 - 14.11.2023](https://github.com/Werydz/Projekt1)
 |Ocena|Zadanie|Wykonano|
 |---|---|---|
