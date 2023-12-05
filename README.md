@@ -16,7 +16,7 @@ Pod nazwą projektu kryje się link do repozytorium z danego projektu w opisanym
 |4.0|Sensory (z oceny 3.0) + wizualizacja
 |5.0|aplikacja kilkuekranowa. Do każdego ekranu inny sensor + Sensory z oceny (4.0)
 
-## [Project 3 - 28.11.2023]([BrakLinku])
+## [Project 3 - 28.11.2023](https://github.com/Werydz/Projekt3)
 projekt realizowany w grupach
 
 |Ocena|Zadanie|
